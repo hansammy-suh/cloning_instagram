@@ -105,3 +105,6 @@ dist
 
 generated
 prisma.yml
+
+src/utils.js
+src/words.js
