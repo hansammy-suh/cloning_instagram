@@ -108,3 +108,4 @@ prisma.yml
 
 src/utils.js
 src/words.js
+src/.env
